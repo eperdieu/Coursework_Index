@@ -62,3 +62,12 @@ picoCTF challenge writeups
 * Professional codes of conduct, including the ISSA Code of Ethics
 
 [View folder](OLS_26300_Ethical_Decisions)
+
+### Network Operating Systems Administration (CIT 35600)
+
+* Windows Server 2019: Active Directory, Group Policy, DHCP, NTFS permissions, and file sharing
+* Ubuntu Linux administration and security hardening with CIS Benchmarks (AppArmor, UFW, AIDE, bootloader and kernel settings)
+
+**[View folder](CIT_35600_NOSAdministration)**
+
+---
