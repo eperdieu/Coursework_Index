@@ -16,7 +16,3 @@ A writing course focused on workplace communication. Assignments covered plannin
 ## Skills
 
 Audience analysis, clear and concise writing, professional tone, revising for the reader
-
-## Note
-
-No assignments are posted here.
