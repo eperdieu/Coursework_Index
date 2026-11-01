@@ -40,7 +40,7 @@ This repo is an index of the courses behind my cybersecurity and cloud work and 
 
 ## CIT 27000: Java Programming
 * Object oriented programming in Java, covering inheritance, interfaces, inner classes and GUI design. Includes a team banking application project (coming soon).
-*[View folder](CIT_27000_Java_Programming)
+* [View folder](CIT_27000_Java_Programming)
 
 ## CIT 30900: Cybersecurity and Network Programming
 * Python tools for security work, including a firewall log analyzer, a domain and Shodan lookup tool, an exposure checker and a regex based data cleaner.
