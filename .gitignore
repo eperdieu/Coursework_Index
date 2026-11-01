@@ -1,1 +1,19 @@
-
+# Block class files and sensitive material
+*.docx
+*.doc
+*.pdf
+*.xlsx
+*.xls
+*.pptx
+*.csv
+*.txt
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.pem
+*.key
+*.env
+.env*
+*.tfstate
+*.tfvars
