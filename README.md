@@ -38,6 +38,10 @@ This repo is an index of the courses behind my cybersecurity and cloud work and 
 * Ethical frameworks and case analysis
 * Professional codes of conduct, including the ISSA Code of Ethics
 
+## CIT 27000: Java Programming
+* Object oriented programming in Java, covering inheritance, interfaces, inner classes and GUI design. Includes a team banking application project (coming soon).
+*[View folder](CIT_27000_Java_Programming)
+
 ## Related Skills
 
 * Cloud: AWS, Terraform, Docker, GitHub Actions
