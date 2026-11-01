@@ -17,3 +17,9 @@
 .env*
 *.tfstate
 *.tfvars
+
+
+nbproject/private/
+build/
+dist/
+*.class
